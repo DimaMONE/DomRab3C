@@ -1,4 +1,6 @@
 # # Игнорировать временные файлы Visual Studio, результаты сборки и
+obj
+bin
 # # файлы, созданные популярными надстройками Visual Studio.
 # #
 # # Получить последнюю версию с https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
