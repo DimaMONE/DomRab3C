@@ -8,11 +8,15 @@ try
     int x3 = (x % 1000) / 100; // третья цифра
     int x4 = (x % 10000) / 1000; // вторая цифра
     int x5 = x / 10000; // первая цифра
-    Checknumb(x1, x2, x3, x4, x5);
-    void Checknumb(int x1, int x2, int x3, int x4, int x5)
+    
+    int[] num = {x5, x4, x3, x2, x1};
+    for (int i = 0; i < num.Length; i++)
+{
+    Console.Write(num[i] );
+}
     {
         if
-            (x1 == x5 && x2 == x4)
+            (num[0] == num[^1] && num[1] == num[^2])
         {
             Console.WriteLine("Число является палиндромом");
         }
@@ -22,7 +26,7 @@ try
         }
     }
 }
-catch
+catch 
 {
     Console.WriteLine("Введите именно пятизначное число");
 }
