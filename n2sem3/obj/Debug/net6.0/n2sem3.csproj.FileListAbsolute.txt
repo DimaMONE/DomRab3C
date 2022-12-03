@@ -1,0 +1,15 @@
+C:\1Uchoba\C#3domrab\n2sem3\bin\Debug\net6.0\n2sem3.exe
+C:\1Uchoba\C#3domrab\n2sem3\bin\Debug\net6.0\n2sem3.deps.json
+C:\1Uchoba\C#3domrab\n2sem3\bin\Debug\net6.0\n2sem3.runtimeconfig.json
+C:\1Uchoba\C#3domrab\n2sem3\bin\Debug\net6.0\n2sem3.dll
+C:\1Uchoba\C#3domrab\n2sem3\bin\Debug\net6.0\n2sem3.pdb
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.csproj.AssemblyReference.cache
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.AssemblyInfoInputs.cache
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.AssemblyInfo.cs
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.csproj.CoreCompileInputs.cache
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.dll
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\refint\n2sem3.dll
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.pdb
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\n2sem3.genruntimeconfig.cache
+C:\1Uchoba\C#3domrab\n2sem3\obj\Debug\net6.0\ref\n2sem3.dll
